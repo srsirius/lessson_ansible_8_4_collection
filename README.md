@@ -1,1 +1,3 @@
-# lessson_ansible_8_4_collection
+# Ansible Collection - Netology_Lesson.Sirius_collection
+
+Documentation for the collection.
