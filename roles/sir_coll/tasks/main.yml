@@ -1,0 +1,6 @@
+---
+  - name: run module
+    Netology_Lesson.Sirius_collection.sirius_module:
+      file_name: "{{ f_name }}"
+      path: "{{ f_path }}"
+      content: "{{ f_content }}"
